@@ -1,0 +1,12 @@
+name: "CTE impacts on migration trends in SW Minnesota"
+output_dir: docs
+navbar:
+  title: "CTE impacts on migration trends in SW Minnesota"
+  left:
+    - text: "Summary of results"
+      href: index.html
+    - text: "Net property taxes"
+      href: net-property-tax.html
+output:
+  html_document:
+    css: "styles.css"
